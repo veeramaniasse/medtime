@@ -10,8 +10,8 @@ android {
         applicationId = "com.simats.medtime"
         minSdk = 26
         targetSdk = 34
-        versionCode = 5
-        versionName = "5.2"
+        versionCode = 6
+        versionName = "6.2"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
